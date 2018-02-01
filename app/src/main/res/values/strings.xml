@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">CalculaTacos</string>
+    <string name="title_activity_pago">activity_pago</string>
+    <string name="de">De:</string>
+    <string name="a">A:</string>
 </resources>
